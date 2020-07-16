@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/interview-helper-front-release/precache-manifest.82a669f8b6613aacce7d9e56d8e5de74.js"
+  "/interview-helper-front-release/precache-manifest.8f30abaf9e8ace0e1f25681cbb24a2aa.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "Interviewer"});
