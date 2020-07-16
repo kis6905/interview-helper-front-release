@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/interview-helper-front-release/precache-manifest.9a1a14d4e21767b39ef5d62cfeb8e199.js"
+  "/interview-helper-front-release/precache-manifest.82a669f8b6613aacce7d9e56d8e5de74.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "front"});
+workbox.core.setCacheNameDetails({prefix: "Interviewer"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {

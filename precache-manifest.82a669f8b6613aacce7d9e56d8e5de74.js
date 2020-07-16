@@ -44,7 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/interview-helper-front-release/css/chunk-vendors.c275c7fe.css"
   },
   {
-    "revision": "e26d5e7b9899d331c34cd7d182a93b21",
+    "revision": "5bb2dac762e5bcbc74036e01ec1f4573",
     "url": "/interview-helper-front-release/index.html"
   },
   {
@@ -96,7 +96,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/interview-helper-front-release/js/chunk-vendors.59cd605c.js"
   },
   {
-    "revision": "1ecee0c343b1bc0443f2e6eba14ed6ff",
+    "revision": "1c9cb2f029897910866441b6f5676ab6",
     "url": "/interview-helper-front-release/manifest.json"
   },
   {
